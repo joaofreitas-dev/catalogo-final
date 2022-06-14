@@ -44,17 +44,7 @@ const Jogo = database.sequelize.define(
         desenvolvedor: {
             type: Sequelize.STRING,
             allowNull: false,
-        },
-
-        reqmin: {
-            type: Sequelize.STRING,
-            allowNull: false,
-        },
-
-        reqideal: {
-            type: Sequelize.STRING,
-            allowNull: false,
-        }
+        }       
 
     },
     {
