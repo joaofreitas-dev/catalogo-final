@@ -2,7 +2,7 @@
 
 # Geek Games
 
-Um projeto teste para armazenar dados de pokemons.
+Um projeto teste para armazenar dados de jogos.
 
 ## 🚀 Começando
 
